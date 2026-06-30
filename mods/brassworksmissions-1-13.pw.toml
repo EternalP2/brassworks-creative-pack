@@ -1,0 +1,12 @@
+name = "Create: Brassworks Missions"
+filename = "brassworksmissions-1.13.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uUhZpyjI/versions/FTx6Sme7/brassworksmissions-1.13.jar"
+hash-format = "sha512"
+hash = "94293557c1a7c0d20e13f7057d1fa7a6fc18dbe09d338fda8487dfa35fce485bef5c881a5289508a3ec34a0d3bd5c1d8c717ecb904c226c04b2e7d13bdd553a3"
+
+[update.modrinth]
+mod-id = "uUhZpyjI"
+version = "FTx6Sme7"

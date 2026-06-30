@@ -1,0 +1,14 @@
+name = "Brassworks Creative Pack"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a5aaf925d1c87bea5c9d090bca0f299c34da7a55c379452aa374f872b19dd0bd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
+unsup = "1.2.5"

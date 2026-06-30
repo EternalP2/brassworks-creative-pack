@@ -1,0 +1,12 @@
+name = "Create: SchematicChecker"
+filename = "createschematicchecker-0.21.15-6.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ULzrAD1U/versions/qEM0hsYQ/createschematicchecker-0.21.15-6.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1dbdfe476575ed86eb8aa14e5f48fe476c22f9d3a3396e221d285ca36ebebf29c2a10665f4f7ade37d49db064c10b66e070f882c5fb552b951867b8718701441"
+
+[update.modrinth]
+mod-id = "ULzrAD1U"
+version = "qEM0hsYQ"

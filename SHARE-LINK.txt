@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2FEternalP2%2Fbrassworks-creative-pack%2Fmain%2Fpack.toml&name=Brassworks+Creative+Pack&unsup=true&shared_by=EternalP2&icon=https%3A%2F%2Fraw.githubusercontent.com%2FEternalP2%2Fbrassworks-creative-pack%2Fmain%2Ficon.png
